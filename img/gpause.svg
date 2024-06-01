@@ -1,0 +1,4 @@
+<svg class="gpause" width="16" height="16" viewBox="0 0 24 24" fill="#008000" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 7H14V17H10V7Z" fill="#008000"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M4 5C3.44772 5 3 5.44772 3 6V18C3 18.5523 3.44772 19 4 19C4.55228 19 5 18.5523 5 18V6C5 5.44772 4.55228 5 4 5ZM21 6C21 5.44772 20.5523 5 20 5C19.4477 5 19 5.44772 19 6V18C19 18.5523 19.4477 19 20 19C20.5523 19 21 18.5523 21 18V6Z" fill="#008000"/>
+</svg>
